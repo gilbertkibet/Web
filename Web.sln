@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{793D6273-D0C3-4567-AAB8-748041B307AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{3E2EC97D-80C8-4A58-9019-ED7D6E5143DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{9B63F47E-5182-415C-85C9-9BBD51A9548B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793D6273-D0C3-4567-AAB8-748041B307AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793D6273-D0C3-4567-AAB8-748041B307AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793D6273-D0C3-4567-AAB8-748041B307AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793D6273-D0C3-4567-AAB8-748041B307AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2EC97D-80C8-4A58-9019-ED7D6E5143DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2EC97D-80C8-4A58-9019-ED7D6E5143DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2EC97D-80C8-4A58-9019-ED7D6E5143DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2EC97D-80C8-4A58-9019-ED7D6E5143DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B63F47E-5182-415C-85C9-9BBD51A9548B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B63F47E-5182-415C-85C9-9BBD51A9548B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B63F47E-5182-415C-85C9-9BBD51A9548B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B63F47E-5182-415C-85C9-9BBD51A9548B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F75001-51E9-477B-AE1D-6C71E957D9BD}
+	EndGlobalSection
+EndGlobal
